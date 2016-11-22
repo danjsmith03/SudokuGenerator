@@ -1,13 +1,9 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Created by: Dan Smith
+ * This DifficultyLevel enum is used for the user to be able to select with level they want to play.
  */
 package sudokugenerator;
 
-/**
- *
- * @author J64880
- */
 public enum DifficultyLevel
 {
     BEGINNER(34), EASY(40), MEDIUM(50), HARD(54), IMPOSSIBLE(60);

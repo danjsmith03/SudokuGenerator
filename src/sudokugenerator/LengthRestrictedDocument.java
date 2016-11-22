@@ -1,17 +1,12 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Created by: Dan Smith
+ * This class limits the number of characters you can enter into each textfield on the GUI.
  */
 package sudokugenerator;
 
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.PlainDocument;
-
-/**
- *
- * @author J64880
- */
 
 public final class LengthRestrictedDocument extends PlainDocument {
 

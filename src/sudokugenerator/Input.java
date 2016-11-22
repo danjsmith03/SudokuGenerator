@@ -1,6 +1,7 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Created by: Dan Smith
+ * This Input Class is the second screen of the GUI.
+ * It allows the user to input the values.
  */
 package sudokugenerator;
 
@@ -10,10 +11,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 import javax.swing.border.Border;
 
-/**
- *
- * @author J64880
- */
 public class Input extends javax.swing.JFrame {
     private int difficulty_level;
     private String difficulty_string;

@@ -1,15 +1,11 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Created by: Dan Smith
+ * This class is the first screen of the GUI.  It allows the user to select the Difficulty Level.
  */
 package sudokugenerator;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author J64880
- */
 public class Start extends javax.swing.JFrame {
 
     /**

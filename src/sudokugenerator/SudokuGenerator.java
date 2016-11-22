@@ -1,6 +1,6 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Created by: Dan Smith
+ * This is the main class of the Sudoku Generator.
  */
 package sudokugenerator;
 
